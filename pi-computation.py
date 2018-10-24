@@ -3,7 +3,7 @@
 
 @email : csaha@aims.edu.gh
 
-Implentation of the approximated value of pi
+Implementation of the approximated value of pi
 
 '''
 
